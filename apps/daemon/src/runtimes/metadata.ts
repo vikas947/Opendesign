@@ -24,7 +24,7 @@ const AGENT_INSTALL_LINKS: Record<
     docsUrl: 'https://github.com/sst/opencode',
   },
   hermes: {
-    installUrl: 'https://github.com/nexu-io/open-design/blob/main/docs/agent-adapters.md',
+    installUrl: 'https://hermes-agent.nousresearch.com/docs/',
     docsUrl: 'https://hermes-agent.nousresearch.com/docs/',
   },
   'trae-cli': {

@@ -4,6 +4,7 @@ const AGENT_LABELS: Record<string, string> = {
   codex: 'Codex',
   devin: 'Devin',
   gemini: 'Gemini',
+  hermes: 'Hermes',
   opencode: 'OpenCode',
   'cursor-agent': 'Cursor',
   cursor: 'Cursor',
@@ -30,6 +31,7 @@ const AGENT_ALIASES: Record<string, string> = {
   'deepseek tui': 'deepseek',
   'deepseek-tui': 'deepseek',
   'aider cli': 'aider',
+  'hermes-agent': 'hermes',
   'aider chat': 'aider',
 };
 
